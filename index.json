@@ -1,0 +1,11 @@
+{
+  "org": "sebp",
+  "repo": "scikit-survival",
+  "versions": [
+    {
+      "commit": "ca0c2bd6ed19334d9cb357e309c38d730cac8cdc",
+      "tag": "",
+      "parsed_at": "2026-10-17T01:19:55.816798+00:00"
+    }
+  ]
+}
